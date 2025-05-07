@@ -45,8 +45,9 @@ ForkFlow is distributed under **CC BY-NC 4.0**.
 
 ## 📬 Author & Contact
 
-Author: Pavel ([micr.fun](https://micr.fun))  
-For licensing inquiries: **hi@micr.fun**
+Created by **Micr Team**  
+Website: [https://micr.fun](https://micr.fun)  
+Commercial licensing: **hi@micr.fun**
 
 ---
 
@@ -95,5 +96,6 @@ ForkFlow распространяется по лицензии **CC BY-NC 4.0**
 
 ### 📬 Автор и связь
 
-Автор: Павел ([micr.fun](https://micr.fun))  
-По вопросам лицензирования: **hi@micr.fun**
+Разработано **Micr Team**  
+Сайт: [https://micr.fun](https://micr.fun)  
+Вопросы по лицензированию: **hi@micr.fun**
