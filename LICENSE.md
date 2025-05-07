@@ -1,15 +1,62 @@
-Creative Commons Attribution-NonCommercial 4.0 International Public License
+ForkFlow – Commercial License Agreement
 
-By exercising the Licensed Rights (defined below), You accept and agree to be bound by the terms and conditions of this Creative Commons Attribution-NonCommercial 4.0 International Public License ("Public License").
+License Type: Non-Exclusive, Perpetual, One-Time Fee  
+Licensee: Purchaser of this license  
+Licensor: Micr Team (hi@micr.fun)
 
-You are free to:
-- Share — copy and redistribute the material in any medium or format
-- Adapt — remix, transform, and build upon the material
+---
 
-Under the following terms:
-- Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made.
-- NonCommercial — You may not use the material for commercial purposes.
+1. Purpose
 
-No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+This license grants the Licensee the right to use the ForkFlow algorithm in commercial products, apps, and services, under the conditions described below.
 
-Full license: https://creativecommons.org/licenses/by-nc/4.0/legalcode
+---
+
+2. Permitted Commercial Uses
+
+The Licensee may:
+- Use ForkFlow as part of a commercial product (e.g. apps, websites, workshops, client services)
+- Integrate it into internal tools or SaaS platforms
+- Modify or adapt the algorithm logic to fit their needs
+
+---
+
+3. Restrictions
+
+The Licensee may not:
+- Resell ForkFlow as a standalone product or algorithm
+- Claim authorship of the original ForkFlow concept
+- Distribute ForkFlow as open-source with commercial licensing removed
+
+---
+
+4. Attribution Required
+
+Licensee must include attribution in documentation, about pages, or credits:
+> “ForkFlow Algorithm by Micr Team — https://micr.fun”
+
+---
+
+5. Limitations
+
+This license is:
+- Valid for one company or team
+- Non-transferable
+- Does not include technical support unless separately arranged
+
+---
+
+6. No Warranty
+
+ForkFlow is provided “as is”, without warranty of any kind. The Licensor is not liable for any damages or losses arising from the use of this algorithm.
+
+---
+
+7. License Confirmation
+
+Your purchase receipt and unique license key from Gumroad serve as proof of this agreement. No signature is required.
+
+---
+
+Thank you for supporting independent open-source development.  
+For questions: **hi@micr.fun**
